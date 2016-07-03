@@ -1,0 +1,24 @@
+{
+  "name": "form-handling",
+  "version": "1.0.0",
+  "description": "Form Handling Example Repository ================================",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-generator": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmdraper8/form-handling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmdraper8/form-handling/issues"
+  },
+  "homepage": "https://github.com/jmdraper8/form-handling#readme"
+}
